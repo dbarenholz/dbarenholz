@@ -12,6 +12,6 @@ IDEs | [![VS-Code](https://img.shields.io/badge/-VS--code-007ACC?style=for-the-b
 
 ----
 
-[![dbarenholz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbarenholz?theme=gotham)](https://github.com/dbarenholz)
+[![dbarenholz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbarenholz&theme=gotham)](https://github.com/dbarenholz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbarenholz?theme=gotham)](https://github.com/dbarenholz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbarenholz&theme=gotham)](https://github.com/dbarenholz)
