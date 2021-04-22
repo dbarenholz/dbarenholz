@@ -6,10 +6,9 @@
 
 Property                 | Data  
 -------------------------|------
-Languages          | [![python](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Adbarenholz&type=Repositories) [![ts](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/search?l=TypeScript&q=user%3Adbarenholz&type=Repositories) [![java](https://img.shields.io/badge/-IntelliJ-red?style=for-the-badge&logo=JAVA&logoColor=white)](https://github.com/search?q=user%3Adbarenholz&type=Repositories)
-Interests          | [![CS](https://img.shields.io/badge/-Computer%20Science-green?style=for-the-badge&logoColor=white)](https://github.com/search?q=user%3Adbarenholz&type=Repositories) [![DEV](https://img.shields.io/badge/-Software%20Development-orange?style=for-the-badge&logoColor=white)](https://github.com/search?q=user%3Adbarenholz&type=Repositories)
-CI / CD                  | [![GH-actions](https://img.shields.io/badge/-GH%20Actions-2088FF?style=for-the-badge&logo=Github-Actions&logoColor=white)](https://github.com/dbarenholz/dbarenholz) [![travis](https://img.shields.io/badge/-Travis-blue?style=for-the-badge&logo=Travis-CI&logoColor=white)](https://github.com/dbarenholz/dbarenholz) [![jenkins](https://img.shields.io/badge/-Jenkins-blue?style=for-the-badge&logo=Jenkins&logoColor=white)](https://github.com/dbarenholz/dbarenholz) 
-
+Languages          | [![python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)](#) [![ts](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white)](#) [![java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=JAVA&logoColor=white)](#) [![java](https://img.shields.io/badge/-LaTeX-blue?style=for-the-badge&logo=Latex&logoColor=white)](#)
+Interests          | [![CS](https://img.shields.io/badge/-Computer%20Science-green?style=for-the-badge&logoColor=white)](#) [![DEV](https://img.shields.io/badge/-Software%20Development-orange?style=for-the-badge&logoColor=white)](#)
+CI / CD                  | [![GH-actions](https://img.shields.io/badge/-GH%20Actions-2088FF?style=for-the-badge&logo=Github-Actions&logoColor=white)](#) [![travis](https://img.shields.io/badge/-Travis-blue?style=for-the-badge&logo=Travis-CI&logoColor=white)](#) [![jenkins](https://img.shields.io/badge/-Jenkins-blue?style=for-the-badge&logo=Jenkins&logoColor=white)](#) 
 
 
 ----
