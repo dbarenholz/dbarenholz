@@ -1,5 +1,5 @@
 ### Hi there, I'm Daniël 👋
-![age](https://img.shields.io/badge/age-23-blue?style=for-the-badge)
+![age](https://img.shields.io/badge/age-24-blue?style=for-the-badge)
 ![living](https://img.shields.io/badge/living-eindhoven-blue?style=for-the-badge)
 [![twitter](https://img.shields.io/twitter/follow/dbarenholz?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/dbarenholz)
 
