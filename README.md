@@ -1,5 +1,5 @@
 ### Hi there, I'm Daniël 👋
-![age](https://img.shields.io/badge/age-24-blue?style=for-the-badge)
+![age](https://img.shields.io/badge/age-25-blue?style=for-the-badge)
 ![living](https://img.shields.io/badge/living-utrecht-blue?style=for-the-badge)
 
 
