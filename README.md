@@ -17,4 +17,4 @@ IDEs | [![VS-Code](https://img.shields.io/badge/-VS--code-007ACC?style=for-the-b
 
 ----
 
-send me money here: PayPal.me/dbarenholz
+send me money here: <https://PayPal.me/dbarenholz>
