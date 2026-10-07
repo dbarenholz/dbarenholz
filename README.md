@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Daniël
 
-🎂 27 years old
+🎂 28 years old
 📍 Based in Utrecht
 
 > [!NOTE]
